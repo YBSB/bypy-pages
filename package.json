@@ -1,0 +1,8 @@
+{
+  "name": "bypy-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YBSB/bypy-pages.git",
+  "author": "wuhongxiang <239254209@qq.com>",
+  "license": "MIT"
+}
